@@ -4,6 +4,6 @@ hello world
 int main(void)
 {
   int c = 0;
-
+  int a = 0;
 return 0;
 }
