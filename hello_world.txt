@@ -3,7 +3,7 @@ hello world
 
 int main(void)
 {
-
+  int c = 0;
 
 return 0;
 }
