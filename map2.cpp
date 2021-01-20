@@ -9,7 +9,7 @@ using namespace std;
 int main(void)
 {
 	int tmp = 5;
-	vector<int>vec = {1, 2, 3};;
+	vector<int>vec = {1, 2, 3};
 	map<int,string>mapStr;
 	
 	vector<int>::iterator it = vec.begin();
